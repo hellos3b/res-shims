@@ -1,0 +1,1 @@
+export type Dict_t<t> = {[id: string]: t}
